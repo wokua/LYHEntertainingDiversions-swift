@@ -8,16 +8,25 @@
 
 import Foundation
 
+
+/// 基础队列数据类型
 class Quene<T> {
     
     private var firstNode : Node<T>?
     private var lastNode : Node<T>?
     
+    
+    /// 初始化
+    ///
+    /// - Parameter data:队列存储的当前节点数据
     init(_ data : T? = nil) {
         self.firstNode = Node.init(data)
         self.lastNode = Node.init(data)
     }
     
+    /// 入队
+    ///
+    /// - Parameter data: 需要进入队列的数据
     func enquene(_ data:T){
         let newNode = Node.init(data)
         if self.firstNode == nil {
@@ -29,6 +38,9 @@ class Quene<T> {
         }
     }
     
+    /// 出队
+    ///
+    /// - Returns: 返回队列中最先入队的数据
     func dequene() -> T? {
         guard let node = self.firstNode else{
             return nil
@@ -40,10 +52,16 @@ class Quene<T> {
         return node.getData()
     }
     
-    func isEmpty() -> Bool {
+    /// 当前队列是否为空
+    ///
+    /// - Returns: 布尔值，判断结果
+    func isEmpty() -> Bool{
         return self.firstNode == nil
     }
     
+    /// 队列元素个数
+    ///
+    /// - Returns: 元素的个数
     func count() -> Int {
         var nextNode = self.firstNode
         var count = 0
@@ -54,10 +72,14 @@ class Quene<T> {
         return count
     }
     
+    /// 返回队列最顶的元素
+    ///
+    /// - Returns: 队列最顶的数据
     func top() -> T? {
         return self.firstNode?.getData()
     }
     
+    /// 清空队列
     func clear(){
         self.firstNode = nil
         self.lastNode = nil

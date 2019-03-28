@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+/// 一种跑马灯item视图
 class ImageTitleView: UIView,UIRunHouseItemProtocol {
 
     let imageView = UIImageView.init(image: UIImage.init(named: "Image"))

@@ -8,9 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController,UIRunHouseViewDatasourse{
 
-    let datas = ["gdshajkldlkfjhgjsakldlfksa","56152673891t74y1834y89","sdjhgajdga","","sdhakshdsajkhdjashjdgahjdgasjgfhfgakfg","sadjbhjashdjashdfuhaskldaksdnklandasjlf"]
+/// demoVC
+class ViewController: UIViewController,UIRunHouseViewDatasourse{
+    ///数据源
+    let datas = ["gdshajkldlkfjhgjsakldlfksa","56152673891t74y1834y89","sdjhgajdga","ysadsdasa","sdhakshdsajkhdjashjdgahjdgasjgfhfgakfg","sadjbhjashdjashdfuhaskldaksdnklandasjlf"]
+    
+    /// 跑马灯页面
     var runhouseView : UIRunHouseView? = UIRunHouseView()
     
     override func viewDidLoad() {
@@ -31,9 +35,18 @@ class ViewController: UIViewController,UIRunHouseViewDatasourse{
         
     }
     
+    //MARK UIRunHouseViewDatasourse 跑马灯数据源
+    ///跑马灯有多少个item
     func numberOfItemsInRunHouseView(view: UIRunHouseView) -> Int {
-        return 3
+        return datas.count
     }
+    
+    /// 获取item
+    ///
+    /// - Parameters:
+    ///   - runHouseView: 跑马灯视图
+    ///   - index: 对应item的角标值
+    /// - Returns:角标对应的视图
     func runHouseView(runHouseView: UIRunHouseView, itemForIndex index: Int) -> UIView {
         
         if index % 2 == 0 {
@@ -52,6 +65,13 @@ class ViewController: UIViewController,UIRunHouseViewDatasourse{
             return view!
         }
     }
+    
+    /// 获取item宽度
+    ///
+    /// - Parameters:
+    ///   - runHouseView: 跑马灯视图
+    ///   - index: 对应item的角标值
+    /// - Returns: 返回对应item的宽度
     func runHouseView(runHouseView: UIRunHouseView, widthForIndex index: Int) -> CGFloat {
         let str = self.datas[index]
         let font = UIFont.systemFont(ofSize: 20)

@@ -7,6 +7,8 @@
 //
 import Foundation
 
+
+/// 刷新事件弱代理，为了定时事件释放
 class WeakProxy: NSObject {
     weak var target: NSObjectProtocol?
     

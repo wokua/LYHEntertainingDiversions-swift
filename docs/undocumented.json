@@ -1,0 +1,481 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 32,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/AppDelegate.swift",
+      "line": 40,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/CustomRunHouseView.swift",
+      "line": 11,
+      "symbol": "CustomRunHouseView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/CustomRunHouseView.swift",
+      "line": 13,
+      "symbol": "CustomRunHouseView.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/CustomRunHouseView.swift",
+      "line": 15,
+      "symbol": "CustomRunHouseView.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/CustomRunHouseView.swift",
+      "line": 20,
+      "symbol": "CustomRunHouseView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/CustomRunHouseView.swift",
+      "line": 24,
+      "symbol": "CustomRunHouseView.creatUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/CustomRunHouseView.swift",
+      "line": 32,
+      "symbol": "CustomRunHouseView.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 11,
+      "symbol": "ImageTitleView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 13,
+      "symbol": "ImageTitleView.imageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 14,
+      "symbol": "ImageTitleView.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 16,
+      "symbol": "ImageTitleView.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 21,
+      "symbol": "ImageTitleView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 25,
+      "symbol": "ImageTitleView.creatUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ImageTitleView.swift",
+      "line": 44,
+      "symbol": "ImageTitleView.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 11,
+      "symbol": "Node",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 16,
+      "symbol": "Node.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 20,
+      "symbol": "Node.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 24,
+      "symbol": "Node.setData(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 28,
+      "symbol": "Node.getData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 32,
+      "symbol": "Node.setNext(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Node.swift",
+      "line": 36,
+      "symbol": "Node.getNext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 11,
+      "symbol": "Quene",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 16,
+      "symbol": "Quene.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 21,
+      "symbol": "Quene.enquene(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 32,
+      "symbol": "Quene.dequene()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 43,
+      "symbol": "Quene.isEmpty()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 47,
+      "symbol": "Quene.count()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 57,
+      "symbol": "Quene.top()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/BaseData/Quene.swift",
+      "line": 61,
+      "symbol": "Quene.clear()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseItem.swift",
+      "line": 11,
+      "symbol": "UIRunHouseItemProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseItem.swift",
+      "line": 12,
+      "symbol": "UIRunHouseItemProtocol.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 11,
+      "symbol": "UIRunHouseViewDatasourse",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 12,
+      "symbol": "UIRunHouseViewDatasourse.numberOfItemsInRunHouseView(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 13,
+      "symbol": "UIRunHouseViewDatasourse.runHouseView(runHouseView:widthForIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 14,
+      "symbol": "UIRunHouseViewDatasourse.runHouseView(runHouseView:itemForIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 17,
+      "symbol": "UIRunHouseViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 21,
+      "symbol": "UIRunHouseView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 23,
+      "symbol": "UIRunHouseView.dataSourse",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 24,
+      "symbol": "UIRunHouseView.space",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 37,
+      "symbol": "UIRunHouseView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 42,
+      "symbol": "UIRunHouseView.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 47,
+      "symbol": "UIRunHouseView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 52,
+      "symbol": "UIRunHouseView.clearCache()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 68,
+      "symbol": "UIRunHouseView.run()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 99,
+      "symbol": "UIRunHouseView.reloadData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 149,
+      "symbol": "UIRunHouseView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 160,
+      "symbol": "UIRunHouseView.registerClasse(classType:reuseIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 165,
+      "symbol": "UIRunHouseView.dequeneItemViewResueIdentity(resueIdentity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/UIRunHouseView.swift",
+      "line": 191,
+      "symbol": "UIRunHouseView.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/WeakProxy.swift",
+      "line": 10,
+      "symbol": "WeakProxy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/WeakProxy.swift",
+      "line": 11,
+      "symbol": "WeakProxy.target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/WeakProxy.swift",
+      "line": 13,
+      "symbol": "WeakProxy.init(target:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/WeakProxy.swift",
+      "line": 18,
+      "symbol": "WeakProxy.responds(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/RunHouse/WeakProxy.swift",
+      "line": 22,
+      "symbol": "WeakProxy.forwardingTarget(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.datas",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 14,
+      "symbol": "ViewController.runhouseView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 16,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 34,
+      "symbol": "ViewController.numberOfItemsInRunHouseView(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 37,
+      "symbol": "ViewController.runHouseView(runHouseView:itemForIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Desktop/LYHEntertainingDiversions-swift/RunhouseSwift/ViewController.swift",
+      "line": 55,
+      "symbol": "ViewController.runHouseView(runHouseView:widthForIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ben/Desktop/LYHEntertainingDiversions-swift"
+}

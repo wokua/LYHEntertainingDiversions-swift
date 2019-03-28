@@ -8,6 +8,7 @@
 
 import UIKit
 
+/// 一种跑马灯item视图
 class CustomRunHouseView: UIView,UIRunHouseItemProtocol {
 
     let label = UILabel()
