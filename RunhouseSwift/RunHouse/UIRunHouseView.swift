@@ -60,7 +60,6 @@ class UIRunHouseView: UIView {
     //MARK: 清空缓存
     func clearCache(){
         self.reuseViewCache.removeAll()
-        self.idCache.removeAll()
         self.widthCache.removeAll()
     }
     
