@@ -20,8 +20,9 @@ class Quene<T> {
     ///
     /// - Parameter data:队列存储的当前节点数据
     init(_ data : T? = nil) {
-        self.firstNode = Node.init(data)
-        self.lastNode = Node.init(data)
+        let node = Node.init(data)
+        self.firstNode = node
+        self.lastNode = node
     }
     
     /// 入队
