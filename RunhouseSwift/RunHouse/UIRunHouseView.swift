@@ -104,6 +104,10 @@ class UIRunHouseView: UIView {
     
    //MARK: 刷新布局
     func reloadData(){
+        
+        if self.currentIndex != 0 {
+            self.currentIndex -= 1
+        }
         let frame = self.frame;
         self.subviews.forEach { (view) in
             view.removeFromSuperview()
