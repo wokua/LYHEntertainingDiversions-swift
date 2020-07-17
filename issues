@@ -1,0 +1,5 @@
+UIRunHouseView文件中的reloadData()方法最后是否需要加止代码：
+if self.currentIndex != 0 {
+            self.currentIndex -= 1
+        }
+这样可以防止第一次滚动时少显示一个元素。
